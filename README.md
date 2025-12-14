@@ -1,5 +1,5 @@
 # radarly
-Radarly is an arduino radar created for one of my assignments in physics class. Its purpose was to demonstrate how the reflected ultrasonic sounds can allow us to measure the distance between a **source** *(the arduino sensor) and an **object**.
+Radarly is an arduino radar created for one of my assignments in physics class. Its purpose was to demonstrate how the reflected ultrasonic sounds can allow us to measure the distance between a **source** *(the arduino sensor)* and an **object**.
 
 ## App Preview
 Here is the interface of the application:
