@@ -3,6 +3,7 @@ Radarly is an arduino radar created for one of my assignments in physics class. 
 
 ## App Preview
 Here is the interface of the application:
+
 ![img](./assets/appUI.png)
 
 ## Tech Stack
