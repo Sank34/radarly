@@ -7,13 +7,13 @@ Here is the interface of the application:
 ![img](./assets/appUI.png)
 
 ## Tech Stack
-In order to implement this app, i've used the following tech stack:
-**Frontend**
+In order to implement this app, i've used the following tech stack: <br>
+**Frontend** <br>
 - Pygame (Python library)
-**Backend**
+**Backend** <br>
 - Serial (Python library)
 - Math, deque (Standard py libraries)
-- Arduino Servo Library
+- Arduino Servo Library <br>
 **Languages**
 - Python
 - C++ (ino)
