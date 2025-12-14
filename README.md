@@ -10,11 +10,13 @@ Here is the interface of the application:
 In order to implement this app, i've used the following tech stack: <br>
 **Frontend** <br>
 - Pygame (Python library)
+
 **Backend** <br>
 - Serial (Python library)
 - Math, deque (Standard py libraries)
 - Arduino Servo Library <br>
-**Languages**
+
+**Languages** <br>
 - Python
 - C++ (ino)
 
