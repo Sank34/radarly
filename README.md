@@ -19,14 +19,14 @@ In order to implement this app, i've used the following tech stack:
 - C++ (ino)
 
 ## Setting up the project
-In order to run the project on your local machine, you'll need first to clone it:
+In order to run the project on your local machine, you'll first need to clone it:
 ```bash
 git clone https://github.com/Sank34/radarly.git
 ```
 Inside the **interface** directory you'll find the python script. You can configure your variables or leave it as is.
 - ``PORT``: your serial communication port.
 - ``BAUD``: do NOT modify, it's the serial communication frequency.
-- ``WIDTH; HEIGHT``: the resolution of your radar window.
+- ``WIDTH; HEIGHT``: the resolution of your radar's window.
 - ``FPS``: the refresh rate of your radar's window.
 - ``MAX_CM``: the maximum width of your radar. Keep in mind that the HC-SR04 can measure up to 400 cm, so that's the maximum value. (Recommended to not modify it over 100 cm)
 - ``SWEEP_WIDTH``: the width of your radar's sweep.
